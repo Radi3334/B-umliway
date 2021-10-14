@@ -1,1 +1,1 @@
-# SchuleSpiel
+# Schulspiel
